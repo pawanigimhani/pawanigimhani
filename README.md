@@ -22,7 +22,7 @@ Aspiring full-stack developer and dedicated IT undergraduate with a passion for 
 - MySQL, MongoDB
 
 **Other:**
-- Git, AWS, Figma, Prisma, Jira
+- Git, Figma, Prisma, Jira
 
 ## 🎓 Education
 
