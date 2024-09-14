@@ -1,34 +1,33 @@
 <h1 align="center">Hi 👋, I'm Pawanee Gimhanee</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanigimhani" alt="pawanigimhani" /></a> </p>
+## 🏫 Profile
 
-- 🌱 I’m currently learning **ReactJs, NextJs, Express.js**
+Aspiring full-stack developer and dedicated IT undergraduate with a passion for building impactful, user-centered solutions.
 
-- 👨‍💻 All of my projects are available at [https://pawanee-gimhanee.vercel.app/](https://pawanee-gimhanee.vercel.app/)
+- 🌐 [pawaneegimhanee.com](https://pawanee-gimhanee.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pawani-gimhani/)
+- 📧 Email: [pawaneegimhanee@gmail.com](mailto:pawaneegimhanee@gmail.com)
+- 📱 Phone: +94 70 115 6005
 
-- 📝 I regularly write articles on [https://medium.com/@pawaneegimhanee](https://medium.com/@pawaneegimhanee)
+## 🛠 Technical Skills
 
-- 📫 How to reach me **pawaneegimhanee@gmail.com**
+**Programming Languages:**
+- JavaScript, TypeScript, Java, C, Python
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@pawaneegimhanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pawaneegimhanee" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pawaneegimhanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pawaneegimhanee" height="30" width="40" /></a>
-</p>
+**Libraries & Frameworks:**
+- React, NextJS, NodeJS, NestJS, Express
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> JavaScript, TypeScript, Java, C, Python </p>
-<h3 align="left">Libraries & Frameworks:</h3>
-<p align="left"> React, NextJS, NodeJS, NestJS, Express </p>
-<h3 align="left">Databases:</h3>
-<p align="left">MySQL, MongoDB</p>
-<h3 align="left">Other:</h3>
-<p align="left">Git, AWS, Figma, Prisma, Jira</p>
+**Databases:**
+- MySQL, MongoDB
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanigimhani&show_icons=true&locale=en&layout=compact" alt="pawanigimhani" /></p>
+**Other:**
+- Git, AWS, Figma, Prisma, Jira
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanigimhani&show_icons=true&locale=en" alt="pawanigimhani" /></p>
+## 🎓 Education
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanigimhani&" alt="pawanigimhani" /></p>
+**University of Moratuwa**
+- BSc (Hons) in Information Technology (2022 - 2026)
+
+---
 
